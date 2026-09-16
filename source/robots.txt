@@ -3,4 +3,4 @@ Disallow: /search
 Disallow: /tags
 Disallow: /categories
 Allow: /
-Sitemap: https://kekek.cc/sitemap.xml
+Sitemap: https://blog.kurl.cc/sitemap.xml

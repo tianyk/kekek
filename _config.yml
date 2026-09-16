@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://kekek.cc
+url: https://blog.kurl.cc
 root: /
 # permalink: :year/:month/:day/:title/
 # permalink: :year/:title/
@@ -83,9 +83,7 @@ theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git 
-  repo: git@github.com:tianyk/tianyk.github.io.git
+## 已改用 GitHub Actions 部署（见 .github/workflows/deploy.yml），无需 hexo-deployer-git
 
 sitemap:
     path: sitemap.xml
