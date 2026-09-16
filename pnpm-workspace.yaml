@@ -1,0 +1,5 @@
+overrides:
+  strip-ansi: 6.0.1
+
+allowBuilds:
+  hexo-util: true
