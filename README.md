@@ -1,1 +1,1 @@
-<https://kurl.cc/me>
+<https://blog.kurl.cc>
