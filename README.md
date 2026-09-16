@@ -1,1 +1,1 @@
-<https://kekek.cc>
+<https://kurl.cc/me>

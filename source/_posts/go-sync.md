@@ -310,7 +310,7 @@ func TestQueue_Add(t *testing.T) {
 
 ### 参考
 
-- [Java并发编程 内置条件队列](https://kekek.cc/post/java.util.concurrent.html#%E5%86%85%E7%BD%AE%E6%9D%A1%E4%BB%B6%E9%98%9F%E5%88%97)
+- [Java并发编程 内置条件队列](https://blog.kurl.cc/post/java.util.concurrent.html#%E5%86%85%E7%BD%AE%E6%9D%A1%E4%BB%B6%E9%98%9F%E5%88%97)
 - [Go 语言设计与实现 6.1 上下文 Context](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/)
 - [Go 语言设计与实现 6.2 同步原语与锁](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-sync-primitives/)
 - [Implementing Timeout in Golang](https://medium.com/codex/implmenting-timeout-in-golang-ee2bc4aa6ae4)

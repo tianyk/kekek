@@ -17,7 +17,7 @@ tags:
 
 {% include_code file_download_via_ajax.js %}
 
-{% iframe https://kekek.cc/static/file-download-via-ajax.html 100% 80px %}
+{% iframe https://blog.kurl.cc/static/file-download-via-ajax.html 100% 80px %}
 
 ### 参考
 - [File Download via AJAX](https://codepen.io/chrisdpratt/pen/RKxJNo)

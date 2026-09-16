@@ -1,6 +1,6 @@
 $('#GetFile').on('click', function () {
     $.ajax({
-        url: 'https://kekek.cc/static/P60524-122812.jpg',
+        url: 'https://blog.kurl.cc/static/P60524-122812.jpg',
         xhr: function () {
             var xhr = $.ajaxSettings.xhr();
             xhr.onprogress = function (e) {
